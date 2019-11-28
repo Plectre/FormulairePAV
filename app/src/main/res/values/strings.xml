@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formulaire PAV</string>
+    <string name="coorNotOk">En attente du fix gps</string>
+    <string name="coorOk">Valider</string>
+    <string name="asterisque_obligatoire">Les Champs avec une * sont obligatoires</string>
+    <string name="no_sd_card">Carte memoire introuvable !</string>
+    <string name="save_failed">Erreur de sauvegarde !</string>
+</resources>
